@@ -1,0 +1,20 @@
+# Frontend (React/Node)
+Epts-Frontend/node_modules/
+Epts-Frontend/.env
+Epts-Frontend/.cache/
+Epts-Frontend/build/
+Epts-Frontend/dist/
+
+# Backend (Python/Django)
+Epts-Backend/venv/
+Epts-Backend/.venv/
+Epts-Backend/__pycache__/
+Epts-Backend/*.pyc
+Epts-Backend/.env
+Epts-Backend/db.sqlite3
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
